@@ -1,0 +1,5 @@
+gTTS
+playsound
+pydub
+numpy
+matplotlib
